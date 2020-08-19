@@ -20,8 +20,8 @@ You can see the rendered HTML code by clicking on the link.
 
 - <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/Hos_info.html">Hospital-Info - Page</a> Contributor - <b>Mohiboddin</b>
 - <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/index.html">Home - Page</a> Contributor - <b>Mohiboddin</b>
-- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/Hos_info.html">Sign in-Info - Page</a> Contributor - <b>Farheen</b>
-- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/index.html">Contact - Page</a> Contributor - <b>Farheen</b>
+- <a href="https://htmlpreview.github.io/?https://github.com/farheenmaster/WDL-2020/blob/master/EXP_02/sign_in.html">Sign in-Info - Page</a> Contributor - <b>Farheen</b>
+- <a href="https://htmlpreview.github.io/?https://github.com/farheenmaster/WDL-2020/blob/master/EXP_02/Contact.html">Contact - Page</a> Contributor - <b>Farheen</b>
 - <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/Hos_info.html">Register - Page</a> Contributor - <b>Yunus</b>
 - <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/index.html">Update - Page</a> Contributor - <b>Yunus</b>
 - <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/Hos_info.html">Count-Info - Page</a> Contributor - <b>Khushboo</b>
@@ -46,7 +46,7 @@ You can see the rendered HTML code by clicking on the link.
 
 To know Individual Contribution of the project you can visit the branches via below links :
 - Branch : <a href="https://github.com/Mohiboddin/WDL-2020">Mohiboddin</a>
-- Branch : <a href="https://github.com/Mohiboddin/WDL-2020">Farheen</a>
+- Branch : <a href="https://github.com/farheenmaster/WDL-2020">Farheen</a>
 - Branch : <a href="https://github.com/Mohiboddin/WDL-2020">Yunus</a>
 - Branch : <a href="https://github.com/Mohiboddin/WDL-2020">Khushboo</a>
 
@@ -62,7 +62,7 @@ To know Individual Contribution of the project you can visit the branches via be
 [-] GitHub : https://github.com/Mohiboddin
 
 - **Farheen Master**<br>
-[-] GitHub : https://github.com/Mohiboddin
+[-] GitHub : https://github.com/farheenmaster
 
 - **Khushboo Karvaujiya**<br>
 [-] GitHub : https://github.com/Mohiboddin
